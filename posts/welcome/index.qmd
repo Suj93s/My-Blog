@@ -1,0 +1,12 @@
+---
+title: "deadpool"
+author: "sujith"
+date: "2024-08-03"
+categories: [news]
+---
+
+deadpool is a nice movie.it has nice story and very intersesting too watch
+
+![](thumbnail.jpg)
+
+
