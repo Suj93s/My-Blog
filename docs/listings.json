@@ -3,8 +3,8 @@
     "listing": "/index.html",
     "items": [
       "/posts/post-with-code/index.html",
+      "/posts/goa/index.html",
       "/posts/ISL/index.html",
-      "/posts/new_thoughts/index.html",
       "/posts/welcome/index.html"
     ]
   }
