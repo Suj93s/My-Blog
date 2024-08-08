@@ -16,5 +16,20 @@
   },
   "posts/malayalam/index.qmd": {
     "index.html": "6612db24"
+  },
+  "posts/ISL/index.qmd": {
+    "index.html": "be0488f9"
+  },
+  "posts copy/malayalam/index.qmd": {
+    "index.html": "bdd0908f"
+  },
+  "posts copy/new_thoughts/index.qmd": {
+    "index.html": "f4f9ab87"
+  },
+  "posts copy/post-with-code/index.qmd": {
+    "index.html": "6af466cf"
+  },
+  "posts copy/welcome/index.qmd": {
+    "index.html": "d685aa9e"
   }
 }
